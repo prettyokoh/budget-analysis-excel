@@ -21,6 +21,6 @@ One major category dominates total expenditure.
 
 
 ## Visualization
-![My Budget Dashboard](screenshot 2026-06-14 104223.png)
+![My Budget Dashboard](screenshot-2026-06-14-104223.png)
 
 
